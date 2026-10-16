@@ -1,1 +1,1 @@
-# Vehicle
+A PHP and MySQL-based e-commerce website for buying and selling second-hand vehicles, including cars and bikes. Features include user authentication, vehicle listings, search and filtering, vehicle details, seller management, and an admin dashboard.
